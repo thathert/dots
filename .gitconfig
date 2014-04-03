@@ -1,0 +1,13 @@
+[user]
+	name = jdoe
+	email = john.doe@gmail.com
+[color]
+	status = auto
+	branch = auto
+	ui = auto
+	diff = auto
+[http]
+	proxy = a-proxy.intra:1337
+# http://tinyurl.com/8xvpny
+[core]
+	gitproxy = gitproxy
