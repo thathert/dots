@@ -63,6 +63,6 @@ map 0 ^
 " Auto-indent xml files
 au FileType xml setlocal equalprg=xmllint\ --format\ --recover\ -\ 2>/dev/null
 
-" 80 char marker
+" 100 char marker
 set colorcolumn=100
 highlight ColorColumn ctermbg=7 guibg=Black
